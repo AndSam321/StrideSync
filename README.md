@@ -1,7 +1,14 @@
 # StrideSync
 
+
 This web application uses the Spotify API and your personal data to generate the perfect running playlist that syncs with your steps. By combining your height, treadmill speed, and preferred genre, StrideSync creates playlists tailored to your stride and energy level—making every run more fun, motivating, and in perfect rhythm.
 Built for CMSC-375-A SWE
+
+## 🌟 Live Demo
+
+[![Watch the Demo](https://img.youtube.com/vi/a5EOVqellbg/0.jpg)](https://www.youtube.com/watch?v=a5EOVqellbg)
+
+Click the image above to watch the demo on YouTube!
 
 ---
 
